@@ -3,19 +3,6 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
-            <title>1.2.3</title>
-            <pubDate>周五, 22 5月 2020 11:24:09 +0800</pubDate>
-            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/leaves615/KeyboardHolder/raw/master/KeyboardHolder.app.1.2.3.zip" sparkle:version="9" sparkle:shortVersionString="1.2.3" length="1938271" type="application/octet-stream" sparkle:edSignature="gj64DXTk2Ymb92a8fz+tQu/MQLCz6ZmvdMM0zS349EzGShFIoxVFxnxrjzjDM/VZ0VkxEISCMxMh5JhR4pQPAQ=="/>
-            <description><![CDATA[
-                <h2>New Features</h2>
-                <ul>
-                    <li>增加自动更新</li>
-                </ul>
-            ]]>
-    </description>
-        </item>
-        <item>
             <title>1.2.4</title>
             <pubDate>周一, 25 5月 2020 11:55:46 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
@@ -28,6 +15,19 @@
                 <ul>
                     <li>修复bug。</li>
                     <li>增加英文支持。</li>
+                </ul>
+            ]]>
+    </description>
+        </item>
+        <item>
+            <title>1.2.3</title>
+            <pubDate>周五, 22 5月 2020 11:24:09 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/raw/master/KeyboardHolder.app.1.2.3.zip" sparkle:version="9" sparkle:shortVersionString="1.2.3" length="1938271" type="application/octet-stream" sparkle:edSignature="gj64DXTk2Ymb92a8fz+tQu/MQLCz6ZmvdMM0zS349EzGShFIoxVFxnxrjzjDM/VZ0VkxEISCMxMh5JhR4pQPAQ=="/>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>增加自动更新</li>
                 </ul>
             ]]>
     </description>
