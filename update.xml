@@ -15,5 +15,22 @@
             ]]>
     </description>
         </item>
+        <item>
+            <title>1.2.4</title>
+            <pubDate>周一, 25 5月 2020 11:55:46 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.2.4/KeyboardHolder.app.1.2.4.zip" sparkle:version="10" sparkle:shortVersionString="1.2.4" length="1942223" type="application/octet-stream" sparkle:edSignature="tRKq2k/isF39DAzZ0CVBmqFvZiSGeKumhOjugM/useo6GNKbMzzUkVA8AJvFKfgrB6zMyoqnoY5U+8kk2tCwDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.2.4/KeyboardHolder10-9.delta" sparkle:version="10" sparkle:shortVersionString="1.2.4" sparkle:deltaFrom="9" length="37059" type="application/octet-stream" sparkle:edSignature="79smmZOM2ogyCTYrw3D8daiTf1vcJy0WtHYa2JElC1iiJib8cXzpNfEDVYtuXdLCqtDl2BDkRKsYo7HVBn8wAA=="/>
+            </sparkle:deltas>
+            <description><![CDATA[
+                <h2>New Features</h2>
+                <ul>
+                    <li>修复bug。</li>
+                    <li>增加英文支持。</li>
+                </ul>
+            ]]>
+    </description>
+        </item>
     </channel>
 </rss>
