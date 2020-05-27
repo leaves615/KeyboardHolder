@@ -1,7 +1,10 @@
 # KeyboardHolder
 
 A supplement to macos comes with an app that regrets the "automatically switch to document to input method" feature.
+# README.md
 
+- 中文 [中文](README.md)
+- en [english](README.en.md)
 # The main function
 -The app switches back and forth, keeping the input method used before the app was cut out.
 -Custom app input method configuration
