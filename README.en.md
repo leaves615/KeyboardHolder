@@ -6,8 +6,9 @@ A supplement to macos comes with an app that regrets the "automatically switch t
 - 中文 [中文](README.md)
 - en [english](README.en.md)
 # The main function
+-Configure app start default input method.
 -The app switches back and forth, keeping the input method used before the app was cut out.
--Custom app input method configuration
+-Custom configuration app default input method, you can lock to use the default input method for each cut.
 -Floating window support
 
 # stand by
