@@ -2,7 +2,7 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>KeyboardHolder</title>
-        <item>
+        <!-- <item>
             <title>1.2.8</title>
             <pubDate>周四, 03 9月 2020 11:46:30 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
@@ -14,7 +14,7 @@
                 </ul>
             ]]>
             </description>
-        </item>
+        </item> -->
         <item>
             <title>1.2.7</title>
             <pubDate>周三, 22 7月 2020 16:12:56 +0800</pubDate>
