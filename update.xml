@@ -3,6 +3,18 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.2.12</title>
+            <pubDate>周五, 11 9月 2020 16:35:50 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.2.12/KeyboardHolder.app.1.2.12.zip" sparkle:version="18" sparkle:shortVersionString="1.2.12" length="2472031" type="application/octet-stream" sparkle:edSignature="6e7zGK3OOhfrtT49G4LzFmbmEcnb2TLQCqCiC2fRzjAtfuQv8VUPWr8+jeyft6wFg/1DaXFt78EkQhozSRYADw=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>修复无法记住app输入法状态的问题。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.2.11</title>
             <pubDate>周四, 10 9月 2020 14:34:11 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
