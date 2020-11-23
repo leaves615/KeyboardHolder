@@ -3,6 +3,18 @@
     <channel>
         <title>KeyboardHolder</title>
         <item>
+            <title>1.2.16</title>
+            <pubDate>周一, 23 11月 2020 17:02:39 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/leaves615/KeyboardHolder/releases/download/1.2.16/KeyboardHolder.app.1.2.16.zip" sparkle:version="22" sparkle:shortVersionString="1.2.16" length="3062815" type="application/octet-stream" sparkle:edSignature="VLIUXz5IU1WbJ5NQ9mSQsfDjVLxZoFmAbB2X/IJVYl2Ympmbfw7xQnIzBfz1jE1BjIQZEbPIpFGGTtJTdBizAg=="/>
+            <description><![CDATA[
+                <ul>
+                    <li>bug fix。</li>
+                </ul>
+            ]]>
+            </description>
+        </item>
+        <item>
             <title>1.2.15</title>
             <pubDate>周日, 15 11月 2020 19:35:45 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
