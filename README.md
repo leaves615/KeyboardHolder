@@ -6,7 +6,6 @@
 
 - 中文 [中文](README.md)
 - en [english](README.en.md)
-- 日本語 [日本語](README.jp.md)
 
 # 主要功能
 - 配置app启动默认输入法。
