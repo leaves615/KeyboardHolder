@@ -16,4 +16,5 @@
 
 # 支持
 如果该app帮助你在输入法切换上的麻烦，你觉得它是一个很棒的app，请动手`Star`。 
+
 也可以通过 https://afdian.net/@keyboardholder 进行支持。
