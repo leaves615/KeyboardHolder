@@ -1,0 +1,15 @@
+name: Close issues marked as fixed upon a release.
+on:
+  release:
+    types: [published]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close issues marked as fixed upon a release.
+        uses: gcampbell-msft/fixed-pending-release@0.0.9
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          label: fixed-pending-release
+          message: ":tada: This issue has now been fixed and is available in [${releaseTag}](${releaseUrl}) :tada:"
